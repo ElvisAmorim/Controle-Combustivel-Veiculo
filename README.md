@@ -20,7 +20,7 @@ Essa aplicação é para o controle de combustivel.
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/ElvisAmorim/Controle-Combustivel-Veiculo/refs/heads/main/screencapture.png)
+![App Screenshot](https://raw.githubusercontent.com/ElvisAmorim/Controle-Combustivel-Veiculo/refs/heads/main/screencapture%20do%20projeto.png)
 
 
 ## Funcionalidades
